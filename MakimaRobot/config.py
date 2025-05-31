@@ -15,14 +15,14 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
 
-    API_ID = "1480988"
-    API_HASH = "be76b2fd25b50222b0e1eee141d6a259"
-    TOKEN = "5605728947:AAHGZRsBITZF6LY8L4_08pGwvdcMkKpXrCE"
-    OWNER_ID = "5544822530"
-    OWNER_USERNAME = "FULLY_CRUAL_MIND"
-    SUPPORT_CHAT = "KanimangalamKovilakam"
-    JOIN_LOGGER = (-1001767332965)
-    EVENT_LOGS = (-1001767332965)
+    API_ID = "21218274"
+    API_HASH = "3474a18b61897c672d315fb330edb213"
+    TOKEN = "7929416862:AAHZrKaPqiIEmGf6oemjQT1truMPeQCn2-g"
+    OWNER_ID = "7576729648"
+    OWNER_USERNAME = "Uzumaki_X_Naruto_6"
+    SUPPORT_CHAT = "Animeheaven_community"
+    JOIN_LOGGER = (-1002535643821)
+    EVENT_LOGS = (-1002535643821)
 
     SQLALCHEMY_DATABASE_URI = ""
     MONGO_DB_URI = "mongodb+srv://Stenzlemaria:Stenzlemaria@cluster0.0ob4dvz.mongodb.net/?retryWrites=true&w=majority"
